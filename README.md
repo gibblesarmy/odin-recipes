@@ -1,2 +1,2 @@
 # odin-recipes
-Initial HTML website for the Oden Project
+Initial HTML website for The Oden Project
